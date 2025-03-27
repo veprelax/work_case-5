@@ -1,6 +1,6 @@
-# work_case-5
+Виконала самостійно Слобожан Софія РПЗ-23А
 
-Виконала Слобожан Софія РПЗ 23-А
+# work_case-5
 
 # Peripheral Device Management in Linux
 
