@@ -70,3 +70,6 @@ Once finished, safely unmount the USB device:
 ```
 sudo umount /mnt/usb
 ```
+### Unfortunately, I do not have a working printer, I could not perform the interference as required
+### Conclusion 
+By completing this task, I gained hands-on experience managing external devices in Linux. I learned how mounting works, the differences between Linux and Windows when handling peripherals, and how to copy and print files using both the GUI and terminal. These skills will be useful for troubleshooting and efficiently working with Linux systems in the future.
